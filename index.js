@@ -83,7 +83,7 @@ const store = {
 let phoneNumber = "254112192119"
 let owner = JSON.parse(fs.readFileSync('./data/owner.json'))
 
-global.botname = "JINX-XMD BOT"
+global.botname = "SPANK-XMD BOT"
 global.themeemoji = "•"
 
 const settings = require('./settings')
@@ -254,8 +254,8 @@ async function startXeonBotInc() {
                     forwardingScore: 1,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363302677217436@newsletter',
-                        newsletterName: 'JINX-XMD',
+                        newsletterJid: '120363418628641913@newsletter',
+                        newsletterName: 'SPANK-XMD',
                         serverMessageId: -1
                     }
                 }
@@ -264,10 +264,10 @@ async function startXeonBotInc() {
             await delay(1999)
             console.log(chalk.yellow(`\n\n                  ${chalk.bold.blue(`[ ${global.botname || 'KNIGHT BOT'} ]`)}\n\n`))
             console.log(chalk.cyan(`< ================================================== >`))
-            console.log(chalk.magenta(`\n${global.themeemoji || '•'} YT CHANNEL: MR HACKER`))
-            console.log(chalk.magenta(`${global.themeemoji || '•'} GITHUB: caseyweb`))
+            console.log(chalk.magenta(`\n${global.themeemoji || '•'} YT CHANNEL: Marcas Matheka`))
+            console.log(chalk.magenta(`${global.themeemoji || '•'} GITHUB: Sesco001 `))
             console.log(chalk.magenta(`${global.themeemoji || '•'} WA NUMBER: ${owner}`))
-            console.log(chalk.magenta(`${global.themeemoji || '•'} CREDIT: CASEYRHODES`))
+            console.log(chalk.magenta(`${global.themeemoji || '•'} CREDIT: Mesh-Matheka `))
             console.log(chalk.green(`${global.themeemoji || '•'} 🤖 Bot Connected Successfully! ✅`))
         }
         if (
