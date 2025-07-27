@@ -1,7 +1,7 @@
 const settings = require("../settings");
 async function aliveCommand(sock, chatId, message) {
     try {
-        const message1 = `*🤖 JINX-XMD is Active!*\n\n` +
+        const message1 = `*🤖 SPANK-XMD is Active!*\n\n` +
                        `*Version:* ${settings.version}\n` +
                        `*Status:* Online\n` +
                        `*Mode:* Public\n\n` +
@@ -18,8 +18,8 @@ async function aliveCommand(sock, chatId, message) {
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363302677217436@newsletter',
-                    newsletterName: 'JINX-XMD',
+                    newsletterJid: '120363418628641913@newsletter',
+                    newsletterName: 'SPANK-XMD',
                     serverMessageId: -1
                 }
             }
