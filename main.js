@@ -99,8 +99,8 @@ const videoCommand = require('./commands/video');
 // Global settings
 global.packname = settings.packname;
 global.author = settings.author;
-global.channelLink = "https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E";
-global.ytch = "Mr Caseyrhodes tech 👻";
+global.channelLink = "https://whatsapp.com/channel/0029VbAEL9r5vKA7RCdnYG0S";
+global.ytch = "Makamesco team";
 
 // Add this near the top of main.js with other global configurations
 const channelInfo = {
@@ -108,8 +108,8 @@ const channelInfo = {
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-            newsletterJid: '120363302677217436@newsletter',
-            newsletterName: 'JINX-XMD',
+            newsletterJid: '120363418628641913@newsletter',
+            newsletterName: 'SPANK-XMD',
             serverMessageId: -1
         }
     }
@@ -864,7 +864,7 @@ async function handleGroupParticipantUpdate(sock, update) {
                         isForwarded: true,
                         forwardedNewsletterMessageInfo: {
                             newsletterJid: channelId,
-                            newsletterName: 'JINX-XMD',
+                            newsletterName: 'SPANK-XMD',
                             serverMessageId: -1
                         }
                     }
@@ -903,7 +903,7 @@ async function handleGroupParticipantUpdate(sock, update) {
                         isForwarded: true,
                         forwardedNewsletterMessageInfo: {
                             newsletterJid: channelId,
-                            newsletterName: 'JINX-XMD',
+                            newsletterName: 'SPANK-XMD',
                             serverMessageId: -1
                         }
                     }
