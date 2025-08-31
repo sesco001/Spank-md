@@ -19,7 +19,7 @@ async function aliveCommand(sock, chatId, message) {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363418628641913@newsletter',
-                    newsletterName: 'SPANK-XMD',
+                    newsletterName: 'EMPEROR-XMD',
                     serverMessageId: -1
                 }
             }
