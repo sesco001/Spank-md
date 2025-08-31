@@ -83,7 +83,7 @@ const store = {
 let phoneNumber = "254112192119"
 let owner = JSON.parse(fs.readFileSync('./data/owner.json'))
 
-global.botname = "SPANK-XMD BOT"
+global.botname = "EMPORER-XMD BOT"
 global.themeemoji = "•"
 
 const settings = require('./settings')
