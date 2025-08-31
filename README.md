@@ -1,6 +1,6 @@
 
 
-🍀 EMPEROR-MD — The Horniest WhatsApp Bot Ever
+🍀 EMPEROR-MD — The Hottest WhatsApp Bot Ever
 
 
 
