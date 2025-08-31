@@ -8,7 +8,7 @@ EMPEROR 🍀-MD is a powerful, playful multi-device WhatsApp bot made for full g
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=f72585&center=true&width=910&height=100&lines=SPANK-MD;Horniest+Multi-Device+Bot;Made+For+Fun+%26+Group+Control" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=f72585&center=true&width=910&height=100&lines=EMPEROR-MD;HOTTEST+Multi-Device+Bot;Made+For+Fun+%26+Group+Control" alt="Typing SVG" />
   </a> 
 </div>
 ---
@@ -17,7 +17,7 @@ EMPEROR 🍀-MD is a powerful, playful multi-device WhatsApp bot made for full g
 
 🔁 Step 1: Fork the Repo
 
-Click below to fork SPANK-MD to your GitHub:
+Click below to fork EMPEROR-MD to your GitHub:
 
 <div align="center">
   <a href="https://github.com/caseyweb/JINX-XMD-V2.0/fork">
@@ -63,10 +63,10 @@ Connect your WhatsApp easily with Pair Code:
 👥 Join Our Channels
 
 <div align="center">
-  <a href="https://t.me/+3QhFUZHx-nhhZmY1">
+  <a href="https://whatsapp.com/channel/0029Vb61ODcIN9ihyL3QOI1h">
     <img src="https://img.shields.io/badge/Telegram-Group-blue?style=for-the-badge&logo=telegram" alt="Telegram"/>
   </a>
-  <a href="https://whatsapp.com/channel/0029Vb9vh8FFCCoMRalpKU0X">
+  <a href="https://whatsapp.com/channel/0029Vb61ODcIN9ihyL3QOI1h">
     <img src="https://img.shields.io/badge/WhatsApp-Channel-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp"/>
   </a>
 </div>
