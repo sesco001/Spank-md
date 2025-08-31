@@ -1,13 +1,13 @@
 async function githubCommand(sock, chatId) {
-    const repoInfo = `*🤖 SPANK XMD*
+    const repoInfo = `*🤖 EMPEROR XMD*
 
 *📂 GitHub Repository:*
-https://github.com/sesco001/Makamesco_md
+https://github.com/sesco001/EMPEROR XMD
 
 *📢 MAIN CHANNEL:*
-https://whatsapp.com/channel/0029VbAEL9r5vKA7RCdnYG0S
+https://whatsapp.com/channel/0029Vb61ODcIN9ihyL3QOI1h
 
-_STAR💥 AND FORK THE REPO IF U LIKE💋 SEXY-XMD BOT!_`;
+_STAR💥 AND FORK THE REPO IF U LIKE💋 EMPEROR-XMD BOT!_`;
 
     try {
         await sock.sendMessage(chatId, {
@@ -17,7 +17,7 @@ _STAR💥 AND FORK THE REPO IF U LIKE💋 SEXY-XMD BOT!_`;
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363418628641913@newsletter',
-                    newsletterName: 'SEXY-XMD',
+                    newsletterName: 'EMPEROR-XMD',
                     serverMessageId: -1
                 }
             }
