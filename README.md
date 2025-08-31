@@ -66,7 +66,7 @@ Connect your WhatsApp easily with Pair Code:
   <a href="https://t.me/+3QhFUZHx-nhhZmY1">
     <img src="https://img.shields.io/badge/Telegram-Group-blue?style=for-the-badge&logo=telegram" alt="Telegram"/>
   </a>
-  <a href="https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E">
+  <a href="https://whatsapp.com/channel/0029Vb9vh8FFCCoMRalpKU0X">
     <img src="https://img.shields.io/badge/WhatsApp-Channel-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp"/>
   </a>
 </div>
@@ -94,9 +94,9 @@ Connect your WhatsApp easily with Pair Code:
 
 ---
 
-🧠 What Is SPANK-MD?
+🧠 What Is EMPEROR 🍀-MD?
 
-SPANK-MD is a bold, cheeky, and highly customizable WhatsApp group bot designed for admins and communities. Whether you're managing a group or just spicing it up, SPANK-MD offers the tools and entertainment you need—all with full multi-device support.
+EMPEROR 🍀-MD is a bold, cheeky, and highly customizable WhatsApp group bot designed for admins and communities. Whether you're managing a group or just spicing it up, EMPEROR 🍀-MD offers the tools and entertainment you need—all with full multi-device support.
 
 Runs in Node.js and uses QR or Pair Code for quick authentication.
 
