@@ -1,9 +1,9 @@
 const settings = {
-  packname: 'EMPORER-XMD',
+  packname: 'EMPEROR-XMD',
   author: '‎',
-  botName: "SPANK-XMD",
-  botOwner: 'MAKAMESCO', // Your name
-  ownerNumber: '254769995625', //Set your number here without + symbol, just add country code & number without any space
+  botName: "EMPEROR-XMD",
+  botOwner: 'EMPEROR 🍀', // Your name
+  ownerNumber: '2347049474372', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   description: "This is a bot for managing group commands and automating tasks.",
