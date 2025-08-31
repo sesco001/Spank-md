@@ -63,7 +63,7 @@ Connect your WhatsApp easily with Pair Code:
 👥 Join Our Channels
 
 <div align="center">
-  <a href="https://whatsapp.com/channel/0029Vb9vh8FFCCoMRalpKU0X">
+  <a href="https://t.me/spacextech1">
     <img src="https://img.shields.io/badge/Telegram-Group-blue?style=for-the-badge&logo=telegram" alt="Telegram"/>
   </a>
   <a href="https://whatsapp.com/channel/0029Vb9vh8FFCCoMRalpKU0X">
