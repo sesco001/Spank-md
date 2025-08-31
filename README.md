@@ -1,10 +1,10 @@
 
 
-🔞 SPANK-MD — The Horniest WhatsApp Bot Ever
+🍀 EMPEROR-MD — The Horniest WhatsApp Bot Ever
 
 
 
-SPANK-MD is a powerful, playful multi-device WhatsApp bot made for full group control, fun, and automation. Built on the Baileys library, it comes packed with admin tools, games, stickers, anti-link features, and more.
+EMPEROR 🍀-MD is a powerful, playful multi-device WhatsApp bot made for full group control, fun, and automation. Built on the Baileys library, it comes packed with admin tools, games, stickers, anti-link features, and more.
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
