@@ -1,5 +1,5 @@
 const settings = {
-  packname: 'SPANK-XMD',
+  packname: 'EMPORER-XMD',
   author: '‎',
   botName: "SPANK-XMD",
   botOwner: 'MAKAMESCO', // Your name
